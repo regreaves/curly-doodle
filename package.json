@@ -2,6 +2,7 @@
   "name": "curly-doodle",
   "version": "1.0.0",
   "exports": {
-    ".": "./index.js"
-  }
+    "print": "./index.mjs"
+  },
+  "type": "module"
 }
